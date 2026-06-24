@@ -65,7 +65,7 @@ This project answers key business questions such as:
 ## Dashboard KPIs
 
 | KPI | Value |
-|------|------|
+|---|---:|
 | Total Revenue | ₹73.41M |
 | Total Orders | 120K |
 | Cancelled Orders | 17K |
@@ -118,7 +118,7 @@ Source:
 https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
 Note:
-The dataset is not included in this repository because of file size limitations.
+The original dataset size is around 65 MB, so only the Kaggle source link is provided.
 
 ---
 
